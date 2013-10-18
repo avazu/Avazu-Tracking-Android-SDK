@@ -1,6 +1,6 @@
 ####Mandatory Permissions 
 
-- Add the INTERNET and ACCESS_NETWORK_STATE permissions to your AndroidManifest.xml file just before the closing </manifest> tag:   
+######Add the INTERNET and ACCESS_NETWORK_STATE permissions to your AndroidManifest.xml file just before the closing </manifest> tag:   
 
    ```xml
    <uses-permission android:name="android.permission.INTERNET" />      
