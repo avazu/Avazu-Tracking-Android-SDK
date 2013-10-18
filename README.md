@@ -15,4 +15,4 @@ Mandatory Permissions
    
    Required:Yes   
    Description:Context object   
-   Example:AvazuTracking.getIntance(this).reportAppDownLoadGoal()
+   Example:``` AvazuTracking.getIntance(this).reportAppDownLoadGoal()```
