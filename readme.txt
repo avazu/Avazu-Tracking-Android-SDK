@@ -8,7 +8,7 @@ AndroidManifest.xml file just before the closing </manifest> tag:
 
 Including AvazuTracking Libraries
 
-  Just add the avazutracking.jar to the Libs folder in your project.
+  Just add the avazutracking-android-sdk.jar to the Libs folder in your project.
 
 
 Code Changes
