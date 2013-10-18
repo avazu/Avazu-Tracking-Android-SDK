@@ -5,15 +5,15 @@
    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 
  Including AvazuTracking Libraries:
-    Just add the avazutracking-android-sdk.jar to the Libs folder in your project.
+   Just add the avazutracking-android-sdk.jar to the Libs folder in your project.
 
 
  Code Changes:
-    Invoke the method within the onCreate of your first activity.
-    AvazuTracking.getInstance(Context context).reportAppDownloadGoal();
+   Invoke the method within the onCreate of your first activity.
+   AvazuTracking.getInstance(Context context).reportAppDownloadGoal();
   
-    Parameter:Context context
-    Required:Yes
-    Description:Context object
-    Example:AvazuTracking.getIntance(this).reportAppDownLoadGoal()
+   Parameter:Context context
+   Required:Yes
+   Description:Context object
+   Example:AvazuTracking.getIntance(this).reportAppDownLoadGoal()
 			
