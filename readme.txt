@@ -14,8 +14,8 @@ Including AvazuTracking Libraries
 Code Changes
   Invoke the method within the onCreate of your first activity.
   AvazuTracking.getInstance(Context context).reportAppDownloadGoal();
-　　
-　　
+  
+  
 Parameter:Context context
 Required:Yes
 Description:Context object
