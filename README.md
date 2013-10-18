@@ -1,8 +1,8 @@
 ####Mandatory Permissions 
 
->- Add the INTERNET and ACCESS_NETWORK_STATE permissions to your AndroidManifest.xml file just before the closing </manifest> tag:   
+- Add the INTERNET and ACCESS_NETWORK_STATE permissions to your AndroidManifest.xml file just before the closing </manifest> tag:   
 
-> ```xml
+   ```xml
    <uses-permission android:name="android.permission.INTERNET" />      
    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
    ```
@@ -12,9 +12,9 @@
    
    
 ######Code Changes:  
->- Invoke the method within the onCreate of your first activity.
+- Invoke the method within the onCreate of your first activity.
 
->  ```java
+   ```java
    AvazuTracking.getInstance(Context context).reportAppDownloadGoal();   
    ```
    
