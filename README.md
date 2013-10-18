@@ -13,5 +13,8 @@ Code Changes
 　　AvazuTracking.getInstance(Context context).reportAppDownloadGoal();
 　　
 　　
-Parameter	Required	Description	Example
-Context context	Yes	Context object	AvazuTracking.getIntance(this).reportAppDownLoadGoal()
+Parameter：Context context
+Required：Yes	
+Description：Context object	
+Example：AvazuTracking.getIntance(this).reportAppDownLoadGoal()
+		
