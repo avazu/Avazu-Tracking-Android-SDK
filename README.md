@@ -37,5 +37,5 @@
    <td><code>Custom ID</code></td>
    <td><code>AvazuTracking.getIntance(this).reportAppDownLoadGoal("id");</code></td>
  </tr>
-</table>
+</table>  
 
