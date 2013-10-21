@@ -18,24 +18,24 @@
    AvazuTracking.getInstance(Context context).reportAppDownloadGoal();   
    ```
    
-<table cellspacing="0">
-<tr>
-<th>Parameter</th>
-<th>Required</th>
-<th>Description</th>
-<th>Example</th>
-</tr>
-<tr>
-<td>Context context</td>
-<td>Yes</td>
-<td>Context object</td>
-<td>AvazuTracking.getIntance(this);</td>
-</tr>
-<tr>
-<td>String uniqid</td>
-<td>Yes</td>
-<td>Custom ID</td>
-<td>AvazuTracking.getIntance(this).reportAppDownLoadGoal("id");</td>
-</tr>
+<table class="table table-bordered table-striped table-condensed">
+ <tr>
+  <th>Parameter</th>
+  <th>Required</th>
+  <th>Description</th>
+  <th>Example</th>
+ </tr>
+ <tr>
+  <td>Context context</td>
+  <td>Yes</td>
+  <td>Context object</td>
+  <td>AvazuTracking.getIntance(this);</td>
+ </tr>
+ <tr>
+  <td>String uniqid</td>
+  <td>Yes</td>
+  <td>Custom ID</td>
+  <td>AvazuTracking.getIntance(this).reportAppDownLoadGoal("id");</td>
+ </tr>
 </table>
 
