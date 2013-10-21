@@ -18,6 +18,17 @@
    AvazuTracking.getInstance(Context context).reportAppDownloadGoal();   
    ```
    
-   Required:Yes   
-   Description:Context object   
-   Example:``` AvazuTracking.getIntance(this).reportAppDownLoadGoal()```
+<table>
+<tr>
+<th>Parameter</th>
+<th>Required</th>
+<th>Description</th>
+<th>Example</th>
+</tr>
+<tr>
+<td>Context context</td>
+<td>Yes</td>
+<td>Context object</td>
+<td>AvazuTracking.getIntance(this).reportAppDownLoadGoal()</td>
+</tr>
+</table>
