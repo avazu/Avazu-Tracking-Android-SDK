@@ -18,7 +18,7 @@
    AvazuTracking.getInstance(Context context).reportAppDownloadGoal();   
    ```
    
-<table>
+<table cellspacing="0">
 <tr>
 <th>Parameter</th>
 <th>Required</th>
