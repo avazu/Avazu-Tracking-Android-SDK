@@ -26,10 +26,10 @@
   <th>Example</th>
  </tr>
  <tr>
-  <td><code>Context context</code></td>
+  <td>Context context</td>
   <td>Yes</td>
-  <td><code>Context object</code></td>
-  <td><code>AvazuTracking.getIntance(this);</code></td>
+  <td>Context object</td>
+  <td>AvazuTracking.getIntance(this);</td>
  </tr>
  <tr>
   <td>String uniqid</td>
