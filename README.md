@@ -15,7 +15,7 @@
 - Invoke the method within the onCreate of your first activity.
 
    ```java
-   AvazuTracking.getInstance(Context context).reportAppDownloadGoal();   
+   AvazuTracking.getInstance(Context context).reportAppDownloadGoal("id");   
    ```
 
 <table cellspacing="0">
