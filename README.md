@@ -9,7 +9,7 @@
     
 ######Including AvazuTracking Libraries:   
 - Just add the avazutracking-android-sdk.jar to the Libs folder in your project.  
-![pic](http://d.pcs.baidu.com/thumbnail/2360ff40f5e7c32e19b27ef8599193c4?fid=2050215414-250528-3840253792&time=1382334633&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-lzK5Pv9IhlrLZN%2FpO75LvdWRoPw%3D&rt=sh&expires=8h&r=530730628&size=c710_u500&quality=100)
+![pic](http://pan.baidu.com/s/1dDf5hJF)
    
 ######Code Changes:  
 - Invoke the method within the onCreate of your first activity.
