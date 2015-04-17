@@ -31,9 +31,9 @@
    <td><code>AvazuTracking.getIntance(this);</code></td>
  </tr>
  <tr>
-   <td><code>String uniqid</code>,<code>int sales</code></td>
+   <td><code>String uniqid</code>,<code>int sales</code>,<code>String eventName</code>,<code>String eventValue</code></td>
    <td>Yes</td>
-   <td><code>Custom ID</code>,<code>Number of the Sales</code></td>
+   <td><code>Custom ID</code>,<code>Number of the Sales</code>,<code>String eventName</code>,<code>String eventValue</code></td>
    <td><code>AvazuTracking.getIntance(this).reportAppDownLoadGoal("uniqid",sales);</code></td>
  </tr>
 </table>  
